@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/relativepath/static/js/main.123274f7.js",
-    "index.html": "/relativepath/index.html",
-    "main.123274f7.js.map": "/relativepath/static/js/main.123274f7.js.map"
+    "main.js": "/check/static/js/main.123274f7.js",
+    "index.html": "/check/index.html",
+    "main.123274f7.js.map": "/check/static/js/main.123274f7.js.map"
   },
   "entrypoints": [
     "static/js/main.123274f7.js"
