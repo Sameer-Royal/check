@@ -2,7 +2,7 @@
   "name": "check",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mywebsite.com/relativepath",
+  "homepage": "https://Sameer-Royal.github.io/check",
   "dependencies": {
     "@auth0/auth0-react": "^1.10.1",
     "@testing-library/jest-dom": "^5.16.4",
